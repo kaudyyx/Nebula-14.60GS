@@ -2,4 +2,5 @@
 
 This GS is bad, don't use it. It's from the Nebula project. There's absolutely nothing good about this GS.
 Bad GS
+# Soon Nebula cheat!
 https://github.com/kaudyyx/Nebula-Redirect
